@@ -10,7 +10,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shubhamg2702/" target="_blank"> Shubham Gupta </a></h1>
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;AI-ML+Engineer;NLP+%7C+GenAI+%7C+LLM)](https://git.io/typing-svg)
 </h3>
 
 
@@ -102,30 +102,14 @@
 <!-- - **[Personal Portfolio](https://portfolio-react-529g.vercel.app):** A personal portfolio built with React to showcase my projects and skills. **Check it out for more projects!** -->
 
 
-
-<h2> 📊 My Github Stats </h2>
-<p align="center">
-<a href="https://github.com/saddamarbaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddamarbaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamarbaa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamarbaa&theme=dark" alt="jigar-sable" /></p>
- </div>
-
-
 <h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p>
-<a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/saddamarbaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/saddam.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saddam_arbaa__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:shubhamgupta43567@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shubhamgupta43567@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/shubhamg2702/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/ArbaaSaddam/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+917880952702&text=Hi!)](https://api.whatsapp.com/send?phone=+917880952702&text=Hi!)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://x.com/shubhamg_27)](https://x.com/shubhamg_27)
 
 </p>
 
