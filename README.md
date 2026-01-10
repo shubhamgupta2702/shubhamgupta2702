@@ -9,7 +9,6 @@
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shubhamg2702/" target="_blank"> Shubham Gupta </a></h1>
 <h3 align="center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;AI-ML+Engineer;NLP+%7C+GenAI+%7C+LLM)](https://git.io/typing-svg)
 </h3>
 
