@@ -7,7 +7,7 @@
 </a>
 </P> -->
 
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/saddamarbaa/" target="_blank"> Saddam Arbaa </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shubhamg2702/" target="_blank"> Shubham Gupta </a></h1>
 <h3 align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
@@ -15,17 +15,12 @@
 
 
 - 💻 &nbsp; **Currently Seeking New Job Opportunities**  
-- 👯 &nbsp; Former Software Engineer at [**RushOwl, Singapore**](https://rushowl.sg)
-- 🌍 &nbsp; Based in **Kelowna, Canada**  
-- 💬 &nbsp; Contact me: [**saddamarbaas@gmail.com**](mailto:saddamarbaas@gmail.com) 
-- 🤖 &nbsp; Passionate about **AI/ML** – exploring LLMs, computer vision, and generative AI  
-- 📚 &nbsp; Currently learning **ML fundamentals** while applying AI tools in practical projects  
+- 💬 &nbsp; Contact me: [**shubhamgupta43567@gmail.com**](mailto:shubhamgupta43567@gmail.com) 
+- 🤖 &nbsp; Passionate about **AI/ML** – exploring LLMs, Agentic AI, and Generative AI  
+- 📚 &nbsp; Currently learning **ML fundamentals** 
 - 👯 &nbsp; Interested in keeping up-to-date with **AI advancements** and latest tech developments  
-- ✍🏻 &nbsp; Strong foundation in **competitive programming**, **DSA**, and algorithm optimization  
-- 🌱 &nbsp; Continuously learning **System Design** with AI-powered applications in mind  
-- 💻 &nbsp; Building [**Open Source REST API**](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api) (contributors welcome!)  
-- 🤝 &nbsp; Looking to collaborate on **AI/ML projects** or any impactful Open Source work  
-- 🎯 &nbsp; **2025 Goals**: Master **React Native**, complete **MERN Stack**, and build **AI-integrated applications** 
+- ✍🏻 &nbsp; Strong foundation in **Machine Learning**, **DSA**, and **Web Development**    
+- 🎯 &nbsp; **2026 Goals**: Master **AI/ML, System Design** and build **Projects** 
 
 
 
@@ -43,12 +38,12 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-- <b>Front-end</b> : Reactjs | Next.js | TypeScript | TailWind CSS | Material | Styled Components
-- <b>Back-end</b> : Node | Express | NestJS
-- <b>Mobile</b> : React-Native
-- <b>Database</b> : MongoDB | Firebase | Mysql
-- <b>Others</b> : Swagger | Devops
-- Git, Github, GitLab, Heroku, Vercel, Netlify, Hostinger, Jira, Slack, and so on
+- <b>Front-end</b> : Reactjs | TailWind CSS | Material | Styled Components
+- <b>Back-end</b> : Node | Express 
+- <b>AI/ML</b> : Machine Learning | Deep Learning | Numpy | Pandas |
+- <b>Languages</b> : Java | Python | JavaScript
+- <b>Database</b> : MongoDB | Mysql
+- Git, Github, Heroku, Vercel, Netlify
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
@@ -58,13 +53,7 @@
             <img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript">
         </td>
         <td>
-            <img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript">
-        </td>
-        <td>
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js">
-        </td>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" title="Nextjs" width="100" alt="Nextjs">
         </td>
         <td>
             <img src="https://redux.js.org/img/redux-logo-landscape.png" title="Redux" width="100" alt="Redux">
@@ -87,16 +76,10 @@
             <img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3">
         </td>
         <td>
-            <img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap">
-        </td>
-        <td>
             <img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo-thumbnail.png" title="Tailwind CSS" width="100" alt="Tailwind CSS">
         </td>
         <td>
             <img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git">
-        </td>
-        <td>
-            <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" title="GitLab" width="100" alt="GitLab">
         </td>
         <td>
             <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express">
@@ -108,30 +91,13 @@
 </table>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
-</picture>
-
-
- <img alt="Saddam's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saddamarbaa&theme=react-dark" />
-
-
-
-
 
 <h2>‍🎃 Coding Profile </h2>
 
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/saddamarbaa/)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shubham_gupta2702)
 
 <h2> 🌟 Projects </h2>
-
-- **[An Open-Source Blog REST API](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api/):** An open-source REST API with features like **user authentication** using **JWT access and refresh tokens**, **password reset**, **email verification**, full **post CRUD operations**, **commenting**, **liking**, **reviews**, **user blocking**, and **admin controls**. It also includes **post and user activity tracking**, **search**, **pagination**, **filtering**, **rate limiting**, **content moderation**, **privacy settings**, and **notification management**.
-  
-- **[Developer Match API](https://github.com/saddamarbaa/node-express-mongodb-developer-match-rest-api/):** An open-source platform for developers to **connect**, **collaborate**, and **find coding partners**. Key features include **profile creation**, **skill-based match-making**, **connection requests**, and **JWT authentication**. It also supports **real-time notifications**, **search filters**, and **admin management** for user accounts.
-
-- **[E-commerce & Social Media API](https://github.com/saddamarbaa/node-express-mongodb-typescript-ecom-social-rest-api):** An open-source RESTful API that integrates **user authentication**, **e-commerce management**, and **social media post management**. Key features include **filters**, **pagination**, **sorting**, **search capabilities** for both products and posts, along with customer and order management, payment processing, **PDF upload**, and inventory tracking.
+ **On the Way**
 
 <!-- - **[Personal Portfolio](https://portfolio-react-529g.vercel.app):** A personal portfolio built with React to showcase my projects and skills. **Check it out for more projects!** -->
 
