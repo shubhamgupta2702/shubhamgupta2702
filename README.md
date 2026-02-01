@@ -94,6 +94,7 @@
 
 <h2>‍🎃 Coding Profile </h2>
 
+[![Kaggle]([https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black](https://www.kaggle.com/static/images/site-logo.svg))](https://www.kaggle.com/sgupta2702)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shubham_gupta2702)
 
 <h2> 🌟 Projects </h2>
