@@ -107,7 +107,7 @@
 
 <p>
 <a href="mailto:shubhamgupta43567@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shubhamgupta43567@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/shubhamg2702/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shubhamg2702/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shubham%20Gupta%20-blue?style=flat-square&logo=linkedin"></a>
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+917880952702&text=Hi!)](https://api.whatsapp.com/send?phone=+917880952702&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://x.com/shubhamg_27)](https://x.com/shubhamg_27)
