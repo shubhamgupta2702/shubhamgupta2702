@@ -10,10 +10,10 @@
 - 💻 &nbsp; **Currently Seeking New Job Opportunities**  
 - 💬 &nbsp; Contact me: [**shubhamgupta43567@gmail.com**](mailto:shubhamgupta43567@gmail.com) 
 - 🤖 &nbsp; Passionate about **AI/ML** – exploring LLMs, Agentic AI, and Generative AI  
-- 📚 &nbsp; Currently learning **ML fundamentals** 
+- 📚 &nbsp; Currently learning **LLMOps and Agentic AI** 
 - 👯 &nbsp; Interested in keeping up-to-date with **AI advancements** and latest tech developments  
-- ✍🏻 &nbsp; Strong foundation in **Machine Learning**, **DSA**, and **Web Development**    
-- 🎯 &nbsp; **2026 Goals**: Master **AI/ML, System Design** and build **Projects** 
+- ✍🏻 &nbsp; Strong foundation in **Machine Learning**, **Deep Learning**,**Transformers** and **Generative AI**    
+- 🎯 &nbsp; **2026 Goals**: Master **AI/ML, MLOPs, LLMOps** and build **Major Projects** 
 
 
 
