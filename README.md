@@ -29,15 +29,18 @@
 
 
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2>🛠 &nbsp;Tech Stack</h2>
 
-- <b>Front-end</b> : Reactjs | TailWind CSS | Material | Styled Components
-- <b>Back-end</b> : Node | Express 
-- <b>AI/ML</b> : Machine Learning | Deep Learning | Numpy | Pandas |
-- <b>Languages</b> : Java | Python | JavaScript
-- <b>Database</b> : MongoDB | Mysql
-- Git, Github, Heroku, Vercel, Netlify
-
+- <b>Generative AI & LLMs</b> : RAG | Agentic AI | Prompt Engineering | LLM Evaluation | OpenAI API
+- <b>LLM Frameworks</b> : LangChain | LangGraph | ReAct Agents | Multi-Agent Systems | Tool Calling
+- <b>AI / Machine Learning</b> : Scikit-learn | TensorFlow | PyTorch | XGBoost | CNN | RNN | Transformers
+- <b>Data Science</b> : NumPy | Pandas | Matplotlib | Seaborn | EDA | Feature Engineering
+- <b>Vector Databases</b> : FAISS | Pinecone | ChromaDB | AstraDB | Weaviate
+- <b>Backend Development</b> : Python | FastAPI | REST APIs
+- <b>Programming Languages</b> : Python | SQL | Java
+- <b>Databases</b> : MySQL | AstraDB
+- <b>MLOps & Cloud</b> : MLflow | DVC | Docker | AWS | CI/CD
+- <b>Tools</b> : Git | GitHub | VS Code | DagsHub
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
 <table>
