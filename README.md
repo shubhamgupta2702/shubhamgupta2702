@@ -1,16 +1,9 @@
-<!-- <p>
-<a href="https://www.linkedin.com/in/saddamarbaa/">
-  <img
-    alt="Helping people make the world a better place through quality software"
-    src="/images/banner-01.jpg"
-  />
-</a>
-</P> -->
+
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shubhamg2702/" target="_blank"> Shubham Gupta </a></h1>
 <h3 align="center">
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI-ML+Engineer;RAG+%7C+GenAI+%7C+LLM+%7C+MLOps+%7C+LLMOps)](https://git.io/typing-svg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI-ML+Engineer+%7C+Gen+AI+Engineer;RAG+%7C+GenAI+%7C+LLM+%7C+MLOps+%7C+LLMOps)](https://git.io/typing-svg)
 </h3>
 
 
